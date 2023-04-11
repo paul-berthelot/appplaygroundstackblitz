@@ -1,0 +1,9 @@
+{
+  "compileTrigger": "save",
+  "env": {
+    "NODE_ENV": "development",
+    "DATABASE_HOST":"aws.connect.psdb.cloud",
+    "DATABASE_USERNAME":"qqs8tt7tpm2cookf5u0y",
+    "DATABASE_PASSWORD":"pscale_pw_SRDOfIE2ww3FyyBWxWxfpWqWOjkWjXWzM5FcpD6NYIN"
+  }
+}
